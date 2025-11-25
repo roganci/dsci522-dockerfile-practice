@@ -1,0 +1,7 @@
+name: condalock
+channels:
+  - conda-forge
+dependencies:
+  - conda-lock
+  - pandas
+prefix: C:\Users\rogan\miniforge3\envs\condalock
