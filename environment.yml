@@ -4,4 +4,5 @@ channels:
 dependencies:
   - conda-lock
   - pandas
-prefix: C:\Users\rogan\miniforge3\envs\condalock
+  - matplotlib
+  - python = 3.12
